@@ -1,4 +1,4 @@
-20413014304605650
+20418062214537937
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -35279,6 +35279,13 @@ Through hole pin header THT 1x02 2.54mm single row
 0
 2
 2
+Connector_PinHeader_2.54mm
+my_4_tab_edge
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
 Connector_PinSocket_1.00mm
 PinSocket_1x02_P1.00mm_Vertical
 Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated
@@ -57826,6 +57833,20 @@ Adafruit Feather M0 Wifi
 0
 28
 28
+Module
+Adafruit_Feather_M4_CAN
+Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/
+Adafruit Feather M0 Wifi
+0
+31
+31
+Module
+Adafruit_Feather_M4_CAN_WithMountingHoles
+Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/
+Adafruit Feather M0 Wifi
+0
+31
+31
 Module
 Adafruit_Feather_WICED
 Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi
